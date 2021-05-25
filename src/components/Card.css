@@ -1,0 +1,21 @@
+.card{
+    margin: 20px;
+    border: 3px solid #000;
+    border-radius: 10px ;
+}
+
+.footer{
+
+    background-color: blue;
+
+
+}
+.Conteudo{
+
+    color: crimson;
+    font-family: fantasy;
+    font-size: 4rem;
+    background-color: darkcyan;
+
+
+}
